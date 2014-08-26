@@ -3,4 +3,4 @@ puppet-delivery
 
 Puppet continuous delivery example
 
-Revision 0.1
+Revision 0.2
